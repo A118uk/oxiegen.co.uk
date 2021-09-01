@@ -1,1 +1,3 @@
-
+URL/URL path to exclude: oxiegen.co.uk (and all subdomains)
+time period of domain ownership: 2001-12-27 to present
+time period to exclude: 2001-12-27 to future
